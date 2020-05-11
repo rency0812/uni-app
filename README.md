@@ -1,5 +1,5 @@
 # uni-app-cli
-
+* HBuilderX 切换到uni-app-hbuildx分支
 ## Project setup
 ```
 npm install
